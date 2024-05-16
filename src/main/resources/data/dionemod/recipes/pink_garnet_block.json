@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "dionemod:pink_garnet"
+    }
+  },
+  "result": {
+    "id": "dionemod:pink_garnet_block"
+  }
+}

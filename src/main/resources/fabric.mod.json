@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "dionemod",
+	"version": "${version}",
+	"name": "Dione Mod",
+	"description": "This is the dionemod 8===D!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/dionemod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.dione.mccourse.DioneMod"
+		],
+		"fabric-datagen": [
+			"net.dione.mccourse.DioneModDataGenerator"
+		],
+		"client": [
+			"net.dione.mccourse.DioneModClient"
+		]
+	},
+	"mixins": [
+		"dionemod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.6",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

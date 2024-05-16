@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dionemod:pink_garnet_block"
+    }
+  ],
+  "result": {
+    "id": "dionemod:pink_garnet",
+    "count": 9
+  }
+}

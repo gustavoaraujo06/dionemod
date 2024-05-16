@@ -1,0 +1,13 @@
+{
+  "item.dionemod.pink_garnet": "Pink Garnet",
+  "item.dionemod.cannabis": "Cannabis",
+  "item.dionemod.metal_detector": "Metal Detector",
+  "item.dionemod.consolo": "Consolo do Myt",
+  "itemgroup.pink_garnet_group": "Pink Garnet Group",
+  "block.dionemod.pink_garnet_block": "Pink Garnet Block",
+  "block.dionemod.pink_garnet_ore": "Pink Garnet Ore",
+  "block.dionemod.nether_pink_garnet_ore": "Nether Pink Garnet Ore",
+  "block.dionemod.end_stone_pink_garnet_ore": "End Stone Pink Garnet Ore",
+  "block.dionemod.deepslate_pink_garnet_ore": "Deepslate Pink Garnet Ore",
+  "item.dionemod.metal_detector.no_valuable": "No valuable block was found"
+}
